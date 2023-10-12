@@ -18,10 +18,14 @@ Follow these steps to set up the E-Commerce API Platform on your local system:
    npm install
 
 ## API Endpoints
-### CREATE Products URL: POST /products/create
-### GET All list of Product URL: GET /products
-### DELETE Product URL:DELETE /products/:id
-### UPDATE Product URL:/products/:id/update_quantity
+### CREATE Products 
+   URL: POST /products/create
+### GET All list of Product 
+   URL: GET /products
+### DELETE Product 
+   URL:DELETE /products/:id
+### UPDATE Product 
+   URL:/products/:id/update_quantity
 
 
 ## Customization
